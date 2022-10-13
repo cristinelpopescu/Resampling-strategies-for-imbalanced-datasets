@@ -19,4 +19,5 @@ https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets
 
 In this kernel we will know some techniques to handle highly unbalanced datasets, with a focus on resampling. The Porto Seguro's Safe Driver Prediction competition, used in this kernel, is a classic problem of unbalanced classes, since insurance claims can be considered unusual cases when considering all clients. Other classic examples of unbalanced classes are the detection of financial fraud and attacks on computer networks.
 
-Let's see how unbalanced the dataset is:
+***This notebook is created by RAFAEL ALENCAR during the Porto Seguro’s Safe Driver Prediction competitions. This copy is created only for educational purpose on how we can deal with imbalanced datasets in machine learning
+
